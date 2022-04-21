@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blu3ming/BackEnd-Semana-3-Express-API/issues"
   },
-  "homepage": "https://github.com/blu3ming/BackEnd-Semana-3-Express-API#readme"
+  "homepage": "https://github.com/blu3ming/BackEnd-Semana-3-Express-API#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
